@@ -7,7 +7,7 @@ A [React.js](https://reactjs.org/) bookshelf app that allows you to select and c
 1. To install the application clone this git repository or download as zip file
 
 ```
-$ git clone 
+$ git clone https://github.com/eche-sule/react-myreads.git
 ```
 
 2. Go into the application folder
